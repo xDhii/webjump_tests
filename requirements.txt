@@ -1,0 +1,15 @@
+robotframework
+robotframework-seleniumlibrary
+robotframework-debuglibrary
+robotframework-pabot
+robotframework-jsonlibrary
+robotframework-excellib
+robotframework-DiffLibrary
+openpyxl == 2.5.14
+pathlib
+pyyaml
+invoke
+lxml
+
+git+https://github.com/xDhii/robotframework-pageobjectlibrary.git
+git+https://github.com/xDhii/automationsetup.git

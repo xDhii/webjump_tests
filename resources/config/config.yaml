@@ -1,0 +1,9 @@
+browser: "chrome"
+server_host: "http://localhost"
+server_port: 55555
+url: "http://localhost:4444/wd/hub"
+remote: False
+headless: False
+default_max_wait_time: 10
+download_dir: "DOWNLOAD_AUT"
+run_env: 'QA'

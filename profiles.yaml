@@ -1,0 +1,4 @@
+profiles:
+  default:
+    robot_options: '-d results --consolewidth 120 --consolecolors ansi'
+    rebot_options: ''

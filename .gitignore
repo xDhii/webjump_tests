@@ -1,0 +1,11 @@
+.Python
+__pycache__/
+results/
+debug.log
+*.log
+output.xml
+log.html
+report.html
+selenium-screenshot*.png
+tests/results
+tmp

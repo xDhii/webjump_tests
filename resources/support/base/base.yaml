@@ -1,0 +1,6 @@
+ANDROID_AUTOMATION_NAME:  UIAutomator2
+ANDROID_PLATFORM_NAME:    Android
+ANDROID_APP:              /home/denisvb/repos/poc/appium/app/Pivot.apk
+ANDROID_DEVICE_NAME:      Emulator
+ANDROID_UIID:             emulator-5554
+ANDROID_AVD:              Pixel_3_XL_API_30

@@ -12,3 +12,5 @@ Library     pabot.PabotLib
 Library     JSONLibrary
 Library     DiffLibrary
 Library     ExcelLibrary
+Library     AppiumLibrary
+

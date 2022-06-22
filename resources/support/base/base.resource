@@ -1,16 +1,12 @@
+*** Settings ***
+
+Library      AppiumLibrary
+Variables    base.yaml
+Resource    ../onboarding/onboarding.resource
+Resource    ../home/home.resource
+
+
 *** Keywords ***
-Before
-    import all resources
-    start automation
-
-After
-    after suite
-
-Before Each
-# if needed
-
-After Each
-# if needed (e.g. taking screenshots)
 
 Open Session
     Set Appium Timeout     20
